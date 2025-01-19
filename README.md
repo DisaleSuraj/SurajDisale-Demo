@@ -1,4 +1,4 @@
 # SurajDisale-Demo
 This is my first Git Repository.
 <br>
-Author-Suraj Disale.
+Author-Suraj Dattatrey Disale.
